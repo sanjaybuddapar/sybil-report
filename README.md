@@ -1,4 +1,4 @@
-# LayerZero Sybil Reporting
+# LayerZero Sybil Reporting 
 
 The [deadline to self-report](https://sybil.layerzero.network/) as sybil has passed. The publication of the initial list of addresses that are not eligible for bounty hunting can be found [here](https://github.com/LayerZero-Labs/sybil-report/blob/main/initialList.txt).
 
